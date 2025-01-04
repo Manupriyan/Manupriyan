@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manupriyan
-- 👀 I’m interested in ...Useful Programs
-- 🌱 I’m currently learning ... Nothing
-- 💞️ I’m looking to collaborate on ... Nothing
+- 👀 I’m interested in ML/AI/AGI
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on ... Nothing rn
 - 📫 How to reach me ... manupriyanbc@gmail.com
 
 <!---
